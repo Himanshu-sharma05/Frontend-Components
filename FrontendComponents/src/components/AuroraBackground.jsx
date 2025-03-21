@@ -33,7 +33,7 @@ function AuroraBackground() {
         beta live now!
     </button>
 
-    <h1 className='max-w-3xl mt-6 text-center font-medium text-5xl leading-16 lg:w-200 lg:mx-auto lg:text-7xl lg:leading-tighter bg-gradient-to-br from-white to-gray-400 bg-clip-text text-transparent leading-tight'>
+    <h1 className='max-w-3xl mt-6 text-center font-medium text-5xl lg:w-200 lg:mx-auto lg:text-7xl lg:leading-tighter bg-gradient-to-br from-white to-gray-400 bg-clip-text text-transparent leading-tight'>
         Decrease your SAAS churn by over 90%
     </h1>
 
